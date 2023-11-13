@@ -655,7 +655,7 @@ class kucoin(Exchange, ImplicitAPI):
                     'TON': 'ton',
                     'BCH': 'bch',
                     'BSV': 'bchsv',
-                    'BCHA': 'bchabc',
+            
                     'OSMO': 'osmo',
                     'NANO': 'nano',
                     'XLM': 'xlm',
